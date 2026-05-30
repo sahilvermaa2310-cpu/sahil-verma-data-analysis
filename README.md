@@ -2,7 +2,7 @@
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 | Property | Details |
 |---|---|
@@ -13,7 +13,7 @@
 
 ---
 
-## 📊 Indicators Analyzed
+##  Indicators Analyzed
 
 | # | Indicator | Unit |
 |---|---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 The project includes the following charts:
 
@@ -44,7 +44,7 @@ The project includes the following charts:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -57,7 +57,7 @@ The project includes the following charts:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Prerequisites
 Make sure you have R and RStudio installed.
@@ -77,11 +77,11 @@ source("sahil_project.R")
 2. Click the **Knit** button ▶
 3. A clean HTML report will be generated automatically
 
-> ⚠️ Make sure `sahil verma.xlsx` is in the **same folder** as the R files before running.
+>  Make sure `sahil verma.xlsx` is in the **same folder** as the R files before running.
 
 ---
 
-## 📌 Key Findings
+##  Key Findings
 
 - 🇮🇳 **India** showed the highest GDP growth overall, with a sharp dip during COVID-19 in 2020
 - 🇮🇹 **Italy** had the most volatile GDP, hitting -8.97% in 2020
@@ -91,11 +91,11 @@ source("sahil_project.R")
 
 ---
 
-## 📜 License
+##  License
 
 This project is for academic purposes only.  
 Data sourced from the [World Bank Open Data](https://data.worldbank.org/) under [CC BY-4.0](https://datacatalog.worldbank.org/public-licenses#cc-by) license.
 
 ---
 
-*Made with ❤️ using R & RStudio*
+*Made with using R & RStudio*
